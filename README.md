@@ -13,7 +13,7 @@ FastAPIApplication/
 └── auth_handler.py
 ```
 
-### `auth_handler.py`
+### `/auth_handler.py`
 
 This file contains the logic for handling JWT token creation, decoding, and validation.
 
