@@ -73,7 +73,7 @@ def decode_jwt_token(token: str):
         raise HTTPException(status_code=401, detail="Invalid token")
 ```
 
-**Explanation:**
+### `Explanation`
 
 1. **Importing Libraries**
 
